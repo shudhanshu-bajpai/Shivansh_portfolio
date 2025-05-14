@@ -66,7 +66,7 @@ export function Hero() {
             </Link>
           </Button>
           <Button variant="ghost" size="icon" asChild>
-            <Link href="https://www.linkedin.com/in/shivansh-singh" target="_blank" aria-label="LinkedIn">
+            <Link href="https://www.linkedin.com/in/shivansh-singh-2576772b1" target="_blank" aria-label="LinkedIn">
               <Linkedin className="h-5 w-5" />
             </Link>
           </Button>
